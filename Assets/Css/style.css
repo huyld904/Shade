@@ -328,7 +328,7 @@
 }
 
 .slider img {
-  max-width: 1583px;
+  min-width: 100%;
 }
 
 .content-play {
@@ -673,6 +673,7 @@
 .problem .problem__container {
   max-width: 1320px;
   margin: auto;
+  padding: 0 12px;
 }
 
 .problem .problem__container .problem__content {
